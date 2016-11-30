@@ -6,6 +6,9 @@ You have the right to use internet, but do not communicate with others in the cl
 
  - Question 1 (2,5 pts): Write a command for modifiying html files of the current directory and its subfolder. You will change 3.0.0-beta5 string into 3.0.0-beta6 string in all these files.
 
+
+ - Question 2 (2,5 pts): Create a command sum the number of lines of files in the current directory
+
 Example output : 
 
 ```
@@ -13,9 +16,7 @@ benwa@horizon ~/Documents/linagora/open-up/s01/e08 (git)-[master] % ./script.sh
 36
 ```
 
- - Question 2 (2,5 pts): Create a command sum the number of lines of files in the current directory
-
-Send the commands you wrote by mail to
+Send the commands you wrote by mail to btellier@linagora.com. Specify your name.
 
 ## File systems (5 pts)
 
