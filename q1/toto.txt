@@ -1,0 +1,2 @@
+3.0.0-beta5
+// Should not be modified
